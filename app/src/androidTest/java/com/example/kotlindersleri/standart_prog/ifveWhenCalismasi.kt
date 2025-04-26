@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.standart_programlama
+package com.example.kotlindersleri.standart_prog
 
 fun main() {
     val yas = 19

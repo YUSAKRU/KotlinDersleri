@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.nesnetabanliprogramlama
+package com.example.kotlindersleri.nesnetabanli_prog
 
 data class Yemekler(var id:Int, var ad:String, var fiyat:Int) {
     // Constructor - init fonksiyonu

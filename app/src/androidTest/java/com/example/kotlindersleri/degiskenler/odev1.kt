@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.ders1
+package com.example.kotlindersleri.degiskenler
 
 fun main() {
     val sehir: String = "İstanbul"

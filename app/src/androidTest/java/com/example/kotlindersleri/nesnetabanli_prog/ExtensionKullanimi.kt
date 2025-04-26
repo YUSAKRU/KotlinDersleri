@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.nesnetabanliprogramlama
+package com.example.kotlindersleri.nesnetabanli_prog
 
 fun main() {
     val sonuc = 5 carp 3 // 5.carp(3)

@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.nesnetabanliprogramlama
+package com.example.kotlindersleri.nesnetabanli_prog
 
 class Fonksiyonlar {
     // void - sadece islem yapan
